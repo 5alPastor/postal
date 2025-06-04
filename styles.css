@@ -1,0 +1,19 @@
+/* Esto es para el texto */
+.postal_mensaje{
+    background-color: rgb(144, 109, 224);
+    display: block;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+/* Aqui cambiamos la imagen */
+img{
+    width: 100%;
+    display: block;
+    border-radius: 50%;
+
+}
+
+#mensaje{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
